@@ -9,8 +9,8 @@ A budget-friendly wishlist application that organizes purchases based on priorit
 🔗 [GitHub Repository](https://github.com/caarosanchez/Wishlist.git)
 
 ### 2. Research Project  
-My university research work on [Topic].  
-📄 [Download PDF](link_al_archivo)
+My university research work on Automation and Augmentation through AI in the UAE, a document in Spanish. 
+📄 [Download PDF](TFG Final.pdf)
 
 ## Contact
 📧 Email: your.email@example.com  
