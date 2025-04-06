@@ -13,5 +13,5 @@ My university research work on Automation and Augmentation through AI in the UAE
 📄 [Download PDF](https://github.com/caarosanchez/Portfolio/blob/4a0907eb1268ac5f2026c53b3cc6828f3fa99a0a/TFG%20Final.pdf)
 
 ## Contact
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+📧 Email: caarosanchez@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/carolina-sanchez14/) | [GitHub](https://github.com/caarosanchez/)
