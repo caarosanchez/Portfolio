@@ -17,19 +17,19 @@ Features player vs computer (PVC) gameplay, increasing ball speed, and a playful
 My university research work on Automation and Augmentation through AI in the UAE, a document in Spanish. 
 📄 [Download PDF](https://github.com/caarosanchez/Portfolio/blob/4a0907eb1268ac5f2026c53b3cc6828f3fa99a0a/TFG%20Final.pdf)
 
-## 🏅 Certifications
+## Certifications
 
 **Unity Essentials Pathway** (2024)  
 Completed Unity’s official beginner tutorial and earned the Unity Essentials badge for foundational Unity and C# scripting skills.  
-[View on Credly](https://www.credly.com/badges/03b82a22-aa34-4ff3-ac56-9e02947c6c17)
+🏅 [View on Credly](https://www.credly.com/badges/03b82a22-aa34-4ff3-ac56-9e02947c6c17)
 
 **Java Path – SoloLearn** (2024)  
 Completed the Java learning path, covering OOP, data structures, and exception handling.  
-[Java Badge](https://www.sololearn.com/certificates/CT-APPO77I3)
+🏅 [Java Badge](https://www.sololearn.com/certificates/CT-APPO77I3)
 
 **C# Path – SoloLearn** (2024)  
 Completed the C# learning path, including fundamentals, classes, and collections.  
-[C# Badge](https://www.sololearn.com/certificates/CC-OZJTOQL2)
+🏅 [C# Badge](https://www.sololearn.com/certificates/CC-OZJTOQL2)
 
 ## Contact
 📧 Email: caarosanchez@gmail.com 
