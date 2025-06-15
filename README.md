@@ -25,11 +25,11 @@ Completed Unity’s official beginner tutorial and earned the Unity Essentials b
 
 **Java Path – SoloLearn** (2024)  
 Completed the Java learning path, covering OOP, data structures, and exception handling.  
-![Java Badge](https://www.sololearn.com/certificates/CT-APPO77I3)
+[Java Badge](https://www.sololearn.com/certificates/CT-APPO77I3)
 
 **C# Path – SoloLearn** (2024)  
 Completed the C# learning path, including fundamentals, classes, and collections.  
-![C# Badge](https://www.sololearn.com/certificates/CC-OZJTOQL2)
+[C# Badge](https://www.sololearn.com/certificates/CC-OZJTOQL2)
 
 ## Contact
 📧 Email: caarosanchez@gmail.com 
