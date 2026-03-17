@@ -15,7 +15,7 @@ Console application in C# that processes passenger data from JSON and assigns se
 ### 3. Pink Pong  
 A minimalist clone of the classic Pong game, built with **Lua** and the **LÖVE 2D framework** as part of the CS50 Introduction to Game Development course.  
 Features player vs computer (PVC) gameplay, increasing ball speed, and a playful pink aesthetic.  
-📂 [Repository](https://github.com/caarosanchez/pink-pong)
+🔗 [GitHub Repository](https://github.com/caarosanchez/pink-pong)
 
 ### 4. Research Project  
 My university research work on Automation and Augmentation through AI in the UAE, a document in Spanish. 
