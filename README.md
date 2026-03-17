@@ -8,12 +8,16 @@ Hi! I'm Carolina, a passionate developer with experience in C# and Java, and a s
 A budget-friendly wishlist application that organizes purchases based on priority and available funds.  
 🔗 [GitHub Repository](https://github.com/caarosanchez/Wishlist)
 
-### 2. Pink Pong  
+### 2. Seat Allocation App  
+Console application in C# that processes passenger data from JSON and assigns seats based on business rules.
+🔗 [GitHub Repository](https://github.com/caarosanchez/SeatAllocationApp)
+
+### 3. Pink Pong  
 A minimalist clone of the classic Pong game, built with **Lua** and the **LÖVE 2D framework** as part of the CS50 Introduction to Game Development course.  
 Features player vs computer (PVC) gameplay, increasing ball speed, and a playful pink aesthetic.  
 📂 [Repository](https://github.com/caarosanchez/pink-pong)
 
-### 3. Research Project  
+### 4. Research Project  
 My university research work on Automation and Augmentation through AI in the UAE, a document in Spanish. 
 📄 [Download PDF](https://github.com/caarosanchez/Portfolio/blob/4a0907eb1268ac5f2026c53b3cc6828f3fa99a0a/TFG%20Final.pdf)
 
